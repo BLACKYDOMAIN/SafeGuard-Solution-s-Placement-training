@@ -69,19 +69,19 @@ Assume if a person is trying to crash two servers – the first server is crashe
 
 ---
 
-## 🔍 SIM Tools:
+## 🔍 SIEM Tools:
 
 When you get hacked, the tech guy gets your source of the attack and they will use this to find how to mitigate it to not happen again by using a **jump system** to test it and analyze it.
 
 ---
 
-## 🧰 OSec Tool:
+## 🧰 OSSEC Tool:
 
 * Captures logs from the domains
 
 ---
 
-## 🧪 SNOT:
+## 🧪 SNORT:
 
 * Captures firewalls in the network
 * Categorizes it (e.g., Apache, etc.)
